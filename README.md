@@ -1,6 +1,8 @@
-# happy-llm Chapter 6 (Colab-ready) — Pretrain / SFT / LoRA (Transformers + Trainer)
+# happy-llm Chapter 6  — Pretrain / SFT / LoRA (Transformers + Trainer)
 
 This folder is a clean, modular project layout you can upload to Google Colab and run on a single GPU.
+It is based on the happy-llm repo.
+
 It implements:
 
 - CLM Pretrain (next-token prediction) using Hugging Face Trainer
